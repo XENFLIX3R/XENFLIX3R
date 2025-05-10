@@ -3,10 +3,11 @@
 
 ```csharp
 github.com/xenflix3r
-dc   - yo_di3g0
-own - Solar Softworks
-Join - Solar Serverside .gg/5zDeE6GKD8
-url  $  https://getsolar.vercel.app/
+dc   > yo_di3g0
+own > Solar Softworks
+Join > Solar Serverside .gg/5zDeE6GKD8
+url  >  https://getsolar.vercel.app/
+gl > [guns.lol](https://guns.lol/yo_di3g0)
 ```
 <br clear="both">
 
