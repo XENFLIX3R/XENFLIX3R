@@ -3,7 +3,7 @@
 
 ```csharp
 github.com/xenflix3r
-dc   > yo_di3g0
+dc   > yo_di3g0 / ♱ 𝖊𝖓𝖙𝖎𝖙𝖞 ♱
 own > Solar Softworks
 Join > Solar Serverside .gg/5zDeE6GKD8
 url  >  https://getsolar.vercel.app/
