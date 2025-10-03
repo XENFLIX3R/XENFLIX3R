@@ -5,7 +5,7 @@
 github.com/xenflix3r
 dc   > yo_di3g0 / ♱ 𝖊𝖓𝖙𝖎𝖙𝖞 ♱
 CEO > Solar Softworks
-Join > Zerion Serverside .gg/5zDeE6GKD8
+Join > Zerion Serverside https://zerion.wtf/
 url  >  https://zerion.wtf/
 lol > = https://guns.lol/yo_di3g0
 ```
